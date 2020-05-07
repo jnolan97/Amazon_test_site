@@ -54,9 +54,8 @@ p {
     border-left:grey;
 }
 .line_break .section{
-    text-align: center;
-    width:225px;
+    width:125px;
     margin-top:-10px;
-    margin-left:10px;
+    margin-left:125px;
     background:white;
 }
